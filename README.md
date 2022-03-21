@@ -3,8 +3,8 @@
 Hello
 This is Bhaskar Noveiy
 
-Interested in in Spark, Data Science and Artificial Intelligence
-I’m currently learning AI
+Interested in Spark, Data Science and Artificial Intelligence
+I’m currently learning AI. 
 I’m looking to collaborate on DS and AI
 
 
